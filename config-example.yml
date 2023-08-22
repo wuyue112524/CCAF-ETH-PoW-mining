@@ -1,0 +1,6 @@
+connection:
+    database: your_db
+    user: username
+    password: password
+    host: host_ip
+    port: port
